@@ -1,9 +1,4 @@
-/**
- * Xin Sun 40038821
- * COMP249
- * Assignment #1
- * Due Date 09/22/2017
- * 
+/*
  * Program introduction: A game of battleship between a player and computer.
  * This program illustrate on an 8 by 8 grid battlefield, the player will have to 
  * place 6 ships and 4 grenades with no overlaps; and the computer place its

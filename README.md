@@ -1,0 +1,2 @@
+# battle-ship
+A game of battleship between a player and computer.  * This program illustrate on an 8 by 8 grid battlefield, the player will have to   * place 6 ships and 4 grenades with no overlaps; and the computer place its  * ships and grenades randomly.Then the player and the computer will place rockets   * by turns trying to hit all opponent's ships to win the game and to avoid hitting grenades.
